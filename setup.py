@@ -18,7 +18,6 @@ setup(
     name='mpl_preamble',
     version='0.1.0',
     description="A set of simple matplotlib customisations.",
-    long_description=readme + '\n\n' + history,
     author="Kian Ho",
     author_email='hui.kian.ho@googlemail.com',
     url='https://github.com/kianho/mpl_preamble',
